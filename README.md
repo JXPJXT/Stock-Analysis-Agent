@@ -76,13 +76,7 @@ Each tool is also available individually for direct API-style use.
 
 ## 🛠️ Project Structure
 
-your-repo/
-├── multi_tool_agent/
-│ ├── agent.py
-│ └── init.py
-├── requirements.txt
-├── .env
-└── README.md
+![image](https://github.com/user-attachments/assets/5851b5b2-cfb7-487b-9adc-fa95777c9f98)
 
 ---
 
