@@ -76,7 +76,7 @@ Each tool is also available individually for direct API-style use.
 
 ## 🛠️ Project Structure
 
-![image](https://github.com/user-attachments/assets/5851b5b2-cfb7-487b-9adc-fa95777c9f98)
+![Structure](https://github.com/user-attachments/assets/7834e012-199b-4c2b-80b3-df613ae6a771)
 
 ---
 
