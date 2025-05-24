@@ -42,7 +42,8 @@ It provides ticker lookup, real-time news, price data, price change analytics, a
 ## ⚡️ Quickstart
 
 ### 1. **Clone this repository**
-
+git clone https://github.com/JXPJXT/Stock-Analysis-Agent.git
+cd Stock-Analysis-Agent
 ### 2. **Install dependencies**
 pip install -r requirements.txt
 
